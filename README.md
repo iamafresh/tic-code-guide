@@ -1,1 +1,4 @@
-# tic-code-guide
+# es6
+# react
+# css
+# 提交规范
