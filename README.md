@@ -8,6 +8,8 @@
 - [风格检查工具standard](https://standardjs.com/readme-zhcn.html)
 - [standard检测规则](https://standardjs.com/rules-zhcn.html#javascript-standard-style)
 - [JavaScript 语句后应该加分号么？](https://www.zhihu.com/question/20298345)
+- [格式化工具prettier](https://prettier.io/)
+
 # css
 # 提交规范
 
